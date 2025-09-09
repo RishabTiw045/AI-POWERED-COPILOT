@@ -1,0 +1,33 @@
+# Core Python stack
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# AutoML & Optimization
+optuna
+
+# Explainability
+shap
+
+# App layer
+streamlit
+
+# Jupyter support
+jupyter
+notebook
+ipykernel
+
+# Utils
+tqdm
+joblib
+python-dotenv
